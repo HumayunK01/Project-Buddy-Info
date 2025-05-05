@@ -44,6 +44,15 @@
       "link": "https://github.com/HumayunK01/IndiVisit",
       "category": "frontend",
       "image_url": "https://i.postimg.cc/FKt0ybYp/image.png"
+    },
+    {
+      "name": "Smart Parking Management System",
+      "description": "Smart Parking Management System is an IoT-powered solution designed to optimize parking operations. Monitor availability, manage slots in real-time, and reduce congestion with an intelligent, user-friendly platform built for smart cities.",
+      "technologies": "Python, SCSS, JavaScript, HTML5/CSS3",
+      "year": "2022",
+      "link": "https://github.com/HumayunK01/Smart_Parking_Management_System",
+      "category": "fullstack",
+      "image_url": "https://i.postimg.cc/QdB1RYLh/image.png"
     }
   ]
 }
